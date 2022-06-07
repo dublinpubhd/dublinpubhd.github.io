@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Categories on Dublin PubhD</title>
+		<link>http://pubhd.ie/categories/</link>
+		<description>Recent content in Categories on pubhd.ie</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>© Copyright notice | Vitae theme for Hugo</copyright>
+		<lastBuildDate>Wed, 06 Jul 2022 00:00:00 +0000</lastBuildDate>
+		<atom:link href="http://pubhd.ie/categories/index.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title>syntax</title>
+			<link>http://pubhd.ie/categories/syntax/</link>
+			<pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+			<guid>http://pubhd.ie/categories/syntax/</guid>
+			<description>
+			
+			</description>
+		</item>
+		<item>
+			<title>themes</title>
+			<link>http://pubhd.ie/categories/themes/</link>
+			<pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+			<guid>http://pubhd.ie/categories/themes/</guid>
+			<description>
+			
+			</description>
+		</item>
+	</channel>
+</rss>

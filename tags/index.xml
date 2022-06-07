@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tags on Dublin PubhD</title>
+		<link>http://pubhd.ie/tags/</link>
+		<description>Recent content in Tags on pubhd.ie</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>© Copyright notice | Vitae theme for Hugo</copyright>
+		<lastBuildDate>Wed, 06 Jul 2022 00:00:00 +0000</lastBuildDate>
+		<atom:link href="http://pubhd.ie/tags/index.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title>css</title>
+			<link>http://pubhd.ie/tags/css/</link>
+			<pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+			<guid>http://pubhd.ie/tags/css/</guid>
+			<description>
+			
+			</description>
+		</item>
+		<item>
+			<title>html</title>
+			<link>http://pubhd.ie/tags/html/</link>
+			<pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+			<guid>http://pubhd.ie/tags/html/</guid>
+			<description>
+			
+			</description>
+		</item>
+		<item>
+			<title>markdown</title>
+			<link>http://pubhd.ie/tags/markdown/</link>
+			<pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+			<guid>http://pubhd.ie/tags/markdown/</guid>
+			<description>
+			
+			</description>
+		</item>
+		<item>
+			<title>themes</title>
+			<link>http://pubhd.ie/tags/themes/</link>
+			<pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+			<guid>http://pubhd.ie/tags/themes/</guid>
+			<description>
+			
+			</description>
+		</item>
+	</channel>
+</rss>
