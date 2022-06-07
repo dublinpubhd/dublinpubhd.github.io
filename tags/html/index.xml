@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>html on Dublin PubhD</title>
-		<link>www.pubhd.ie/tags/html/</link>
-		<description>Recent content in html on </description>
+		<link>http://www.pubhd.ie/tags/html/</link>
+		<description>Recent content in html on www.pubhd.ie</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>© Copyright notice | Vitae theme for Hugo</copyright>
 		<lastBuildDate>Wed, 06 Jul 2022 00:00:00 +0000</lastBuildDate>
-		<atom:link href="www.pubhd.ie/tags/html/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="http://www.pubhd.ie/tags/html/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>

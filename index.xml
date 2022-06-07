@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Dublin PubhD</title>
-		<link>www.pubhd.ie/</link>
-		<description>Recent content on </description>
+		<link>http://www.pubhd.ie/</link>
+		<description>Recent content on www.pubhd.ie</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>© Copyright notice | Vitae theme for Hugo</copyright>
 		<lastBuildDate>Wed, 06 Jul 2022 00:00:00 +0000</lastBuildDate>
-		<atom:link href="www.pubhd.ie/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="http://www.pubhd.ie/index.xml" rel="self" type="application/rss+xml" />
 		<item>
 			<title></title>
-			<link>www.pubhd.ie/about/</link>
+			<link>http://www.pubhd.ie/about/</link>
 			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-			<guid>www.pubhd.ie/about/</guid>
+			<guid>http://www.pubhd.ie/about/</guid>
 			<description>
 			PubhD is a monthly event where three researchers from any academic discipline talk about their work to an audience of those interested in …
 			</description>
