@@ -1,3 +1,3 @@
 User-agent: *
 
-Disallow: /post/2022_july/
+Disallow: www.pubhd.ie/post/2022_july/
