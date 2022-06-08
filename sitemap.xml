@@ -18,7 +18,7 @@
   </url>
   
   <url>
-    <loc>http://www.pubhd.ie/post/2022_july/</loc>
+    <loc>http://www.pubhd.ie/posts/2022_july/</loc>
     <lastmod>2022-07-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,7 +33,7 @@
   </url>
   
   <url>
-    <loc>http://www.pubhd.ie/post/</loc>
+    <loc>http://www.pubhd.ie/posts/</loc>
     <lastmod>2022-07-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,17 +48,22 @@
   </url>
   
   <url>
-    <loc>http://www.pubhd.ie/tags/themes/</loc>
-    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.pubhd.ie/categories/themes/</loc>
     <lastmod>2022-07-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://www.pubhd.ie/tags/themes/</loc>
+    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.pubhd.ie/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.pubhd.ie/signup_to_speak/</loc>
     <priority>0</priority>
   </url>
   
