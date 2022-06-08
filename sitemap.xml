@@ -1,43 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>http://www.pubhd.ie/categories/</loc>
     <lastmod>2022-07-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://www.pubhd.ie/tags/css/</loc>
     <lastmod>2022-07-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://www.pubhd.ie/</loc>
     <lastmod>2022-07-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://www.pubhd.ie/post/2022_july/</loc>
     <lastmod>2022-07-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://www.pubhd.ie/tags/html/</loc>
     <lastmod>2022-07-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://www.pubhd.ie/tags/markdown/</loc>
     <lastmod>2022-07-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://www.pubhd.ie/post/</loc>
     <lastmod>2022-07-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://www.pubhd.ie/categories/syntax/</loc>
     <lastmod>2022-07-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://www.pubhd.ie/tags/</loc>
     <lastmod>2022-07-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://www.pubhd.ie/tags/themes/</loc>
     <lastmod>2022-07-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://www.pubhd.ie/categories/themes/</loc>
     <lastmod>2022-07-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://www.pubhd.ie/about/</loc>
     <priority>0</priority>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://www.pubhd.ie/series/</loc>
   </url>
+  
 </urlset>
