@@ -1,3 +1,4 @@
 User-agent: *
 
+Disallow: /dublin/july2022/
 Disallow: /posts/2022_july/
