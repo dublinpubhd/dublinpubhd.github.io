@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Dublin PubhD</title>
-		<link>http://www.pubhd.ie/</link>
+		<link>https://www.pubhd.ie/</link>
 		<description>Recent content on www.pubhd.ie</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>© Copyright notice | Vitae theme for Hugo</copyright>
 		<lastBuildDate>Wed, 06 Jul 2022 00:00:00 +0000</lastBuildDate>
-		<atom:link href="http://www.pubhd.ie/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://www.pubhd.ie/index.xml" rel="self" type="application/rss+xml" />
 		<item>
 			<title></title>
-			<link>http://www.pubhd.ie/about/</link>
+			<link>https://www.pubhd.ie/about/</link>
 			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-			<guid>http://www.pubhd.ie/about/</guid>
+			<guid>https://www.pubhd.ie/about/</guid>
 			<description>
 			PubhD (from “Pub” + “PhD”) is monthly event that started up in Nottingham on January 22, 2014. The basic idea originated from the question: …
 			</description>
 		</item>
 		<item>
 			<title></title>
-			<link>http://www.pubhd.ie/signup_to_speak/</link>
+			<link>https://www.pubhd.ie/signup_to_speak/</link>
 			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-			<guid>http://www.pubhd.ie/signup_to_speak/</guid>
+			<guid>https://www.pubhd.ie/signup_to_speak/</guid>
 			<description>
 			 Speaker Signup 
 			</description>
