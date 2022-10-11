@@ -1,4 +1,7 @@
 User-agent: *
 
+Disallow: /events/dublin_2022_december/
+Disallow: /events/dublin_2022_november/
+Disallow: /events/dublin_2022_september/
 Disallow: /events/dublin_2022_july/
 Disallow: /posts/2022_july/
